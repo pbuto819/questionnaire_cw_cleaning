@@ -1,4 +1,4 @@
-# questionnaire_cw_cleaning
+# Questionnaire Cross-Walk Between HRS and NLSY - Set-up
 
 GitHub Repository for Questionnaire Cross-Walk Between HRS and NLSY
 Contact: Peter T. Buto (pbuto819@gmail.com)
