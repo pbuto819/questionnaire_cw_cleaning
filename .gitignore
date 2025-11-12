@@ -51,3 +51,4 @@ rsconnect/
 # Don't save data
 *.RDS
 Outputs/
+.DS_Store
